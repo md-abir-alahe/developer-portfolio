@@ -31,3 +31,9 @@ section {
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+.top-banner {
+    background-image: url(images/nutrition.png);
+    background-repeat: no-repeat;
+    background-size: 4%;
+}
